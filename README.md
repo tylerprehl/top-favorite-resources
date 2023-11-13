@@ -5,10 +5,6 @@ I've done my done my best to sort them by CS language, framework, concept, etc, 
 ### Table of Contents
 - [NodeJS](#nodejs)
 
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-
 ### NodeJS
 Title - Modern JavaScript for Dinosaurs<br>
 Basics - Describes how and why the front-end development industry went from HTML/JS to NodeJS/webpack<br>

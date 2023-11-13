@@ -9,5 +9,5 @@ I've done my done my best to sort them by CS language, framework, concept, etc, 
 
 ### NodeJS
 Title - Modern JavaScript for Dinosaurs<br>
-Basics - Describes how and why the front-end development industry went from HTML/JS to NodeJS/webpack<br>
+Basics - Describes how and why the front-end development industry went from HTML/JS to package managers, module bundlers, transpilers, and task runners<br>
 Link - https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html<br>

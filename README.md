@@ -21,5 +21,5 @@ Link - [https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/async%20%26%20per
 
 ### React
 Title - Passing Data Between Components<br>
-Basics - Just a regular old TOP lesson, but covers the extraordinarily important and helpful topic of component props<br>
+Basics - Just a regular old TOP lesson, but covers the extraordinarily important and helpful topic of component props. The link to the React docs and its challenges were extremely helpful in understanding some of the finer points<br>
 Link - [https://www.theodinproject.com/lessons/node-path-react-new-passing-data-between-components](https://www.theodinproject.com/lessons/node-path-react-new-passing-data-between-components)<br>

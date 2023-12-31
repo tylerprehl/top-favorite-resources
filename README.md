@@ -6,6 +6,7 @@ I've done my done my best to sort them by language, framework, concept, etc, but
 ### Table of Contents
 - [Node.js](#nodejs)
 - [JavaScript](#javascript)
+- [React](#react)
 <br>
 
 ### Node.js
@@ -17,3 +18,8 @@ Link - [https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.ht
 Title - You Don't Know JS: Async & Performance - Promises<br>
 Basics - DEEP dive into Promises in JS. What they are, how they work, and why they're so important<br>
 Link - [https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/async%20%26%20performance/ch3.md](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/async%20%26%20performance/ch3.md)<br>
+
+### React
+Title - Passing Data Between Components<br>
+Basics - Just a regular old TOP lesson, but covers the extraordinarily important and helpful topic of component props<br>
+Link - [https://www.theodinproject.com/lessons/node-path-react-new-passing-data-between-components](https://www.theodinproject.com/lessons/node-path-react-new-passing-data-between-components)<br>
